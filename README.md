@@ -1,6 +1,6 @@
 # book_generator
 
-The purpose of this exercise is to choose two random books of the Bible to study for the day, as I like to read an Old Testament and New Testament book each day.
+The purpose of this exercise is to choose two random books of the Bible to study, as I like to read an Old Testament and New Testament book each day. It also has a fuction to radonmly choose which chapter to read.
 
 
-![image](https://user-images.githubusercontent.com/43118437/195229910-84ca7a31-6f36-4ac9-bf98-0340b00a8a2b.png)
+![image](https://user-images.githubusercontent.com/43118437/195231112-3d46bdde-aa89-4485-a45f-b92337cf0d13.png)
